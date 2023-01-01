@@ -1,2 +1,2 @@
 # Build-and-Deploy-a-Counter-with-Remix
-I have shared with GitFront
+This is the first homework at the practicum
